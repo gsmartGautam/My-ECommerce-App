@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@reduxjs/toolkit": "^1.8.3",
-    "axios": "^0.27.2",
-    "timeago.js": "^4.0.2"
-  }
-}
